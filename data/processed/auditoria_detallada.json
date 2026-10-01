@@ -1,0 +1,60 @@
+{
+  "filas_originales": 768,
+  "columnas_originales": 9,
+  "duplicados_exactos": 0,
+  "nulos_csv": {
+    "embarazos": 0,
+    "glucosa_mg_dl": 0,
+    "presion_diastolica_mm_hg": 0,
+    "pliegue_tricipital_mm": 0,
+    "insulina_2h_mu_ml": 0,
+    "imc_kg_m2": 0,
+    "funcion_antecedentes_diabetes": 0,
+    "edad_anios": 0,
+    "resultado_diabetes": 0
+  },
+  "ceros_sospechosos": {
+    "glucosa_mg_dl": 5,
+    "presion_diastolica_mm_hg": 35,
+    "pliegue_tricipital_mm": 227,
+    "insulina_2h_mu_ml": 374,
+    "imc_kg_m2": 11
+  },
+  "etiquetas_invalidas": 0,
+  "faltantes_antes_imputacion": {
+    "embarazos": 0,
+    "glucosa_mg_dl": 5,
+    "presion_diastolica_mm_hg": 35,
+    "pliegue_tricipital_mm": 227,
+    "insulina_2h_mu_ml": 374,
+    "imc_kg_m2": 11,
+    "funcion_antecedentes_diabetes": 0,
+    "edad_anios": 0,
+    "resultado_diabetes": 0
+  },
+  "filas_excluidas_por_objetivo": 0,
+  "faltantes_despues": {
+    "embarazos": 0,
+    "glucosa_mg_dl": 0,
+    "presion_diastolica_mm_hg": 0,
+    "pliegue_tricipital_mm": 0,
+    "insulina_2h_mu_ml": 0,
+    "imc_kg_m2": 0,
+    "funcion_antecedentes_diabetes": 0,
+    "edad_anios": 0,
+    "resultado_diabetes": 0
+  },
+  "filas_finales": 768,
+  "columnas_finales": 9,
+  "tipos_finales": {
+    "embarazos": "int64",
+    "glucosa_mg_dl": "float64",
+    "presion_diastolica_mm_hg": "float64",
+    "pliegue_tricipital_mm": "float64",
+    "insulina_2h_mu_ml": "float64",
+    "imc_kg_m2": "float64",
+    "funcion_antecedentes_diabetes": "float64",
+    "edad_anios": "int64",
+    "resultado_diabetes": "category"
+  }
+}
