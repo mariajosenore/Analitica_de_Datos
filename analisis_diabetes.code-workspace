@@ -6,6 +6,7 @@
   ],
   "settings": {
     "python.defaultInterpreterPath": "${workspaceFolder}\\.venv\\Scripts\\python.exe",
-    "jupyter.notebookFileRoot": "${workspaceFolder}"
+    "jupyter.notebookFileRoot": "${workspaceFolder}",
+    "git.openRepositoryInParentFolders": "never"
   }
 }
